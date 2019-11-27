@@ -48,7 +48,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Dijkstra">
+  <component name="RunManager" selected="Python.Greedy">
     <configuration name="Dijkstra" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="图解算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -71,7 +71,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="binary_search" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Greedy" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="图解算法" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -84,7 +84,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/binary_search.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Greedy.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -161,11 +161,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Greedy" />
         <item itemvalue="Python.Dijkstra" />
         <item itemvalue="Python.breadthFirst_search" />
         <item itemvalue="Python.quicksort" />
         <item itemvalue="Python.select_sort" />
-        <item itemvalue="Python.binary_search" />
       </list>
     </recent_temporary>
   </component>
@@ -185,6 +185,8 @@
       <workItem from="1574340575175" duration="459000" />
       <workItem from="1574387761088" duration="3996000" />
       <workItem from="1574473445689" duration="7539000" />
+      <workItem from="1574512478390" duration="25000" />
+      <workItem from="1574837882037" duration="1647000" />
     </task>
     <servers />
   </component>
@@ -204,11 +206,23 @@
       </map>
     </option>
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/Greedy.py</url>
+          <line>54</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/$quicksort.coverage" NAME="quicksort Coverage Results" MODIFIED="1574321326585" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$select_sort.coverage" NAME="select_sort Coverage Results" MODIFIED="1574257862412" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$Dijkstra.coverage" NAME="Dijkstra Coverage Results" MODIFIED="1574481593442" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$breadthFirst_search.coverage" NAME="breadthFirst_search Coverage Results" MODIFIED="1574393673163" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/$Greedy.coverage" NAME="Greedy Coverage Results" MODIFIED="1574839515550" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/$binary_search.coverage" NAME="binary_search Coverage Results" MODIFIED="1574257818776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
