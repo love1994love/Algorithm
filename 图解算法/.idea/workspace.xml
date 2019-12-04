@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="30ca7408-bb8d-4d8d-a92d-dd14dc61d19a" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Greedy.py" beforeDir="false" afterPath="$PROJECT_DIR$/Greedy.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -187,6 +187,7 @@
       <workItem from="1574473445689" duration="7539000" />
       <workItem from="1574512478390" duration="25000" />
       <workItem from="1574837882037" duration="1647000" />
+      <workItem from="1575427540747" duration="1286000" />
     </task>
     <servers />
   </component>

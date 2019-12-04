@@ -17,7 +17,7 @@
 states_needed = set(['mt', 'wa', 'or', 'id', 'nv', 'ut', 'ca', 'za'])
 
 # 建立可供选择的广播清单
-stations = {}
+stations = {} 
 stations['kone'] = set(['id', 'nv', 'ut'])
 stations['ktwo'] = set(['wa', 'id', 'mt'])
 stations['kthree'] =  set(['or', 'nv', 'ca'])
